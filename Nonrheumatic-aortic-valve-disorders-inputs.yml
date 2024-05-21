@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/nonrheumatic-aortic-valve-disorders-regurgitation---primary.py
+inputModule3:
+  class: File
+  path: python/nonrheumatic-aortic-valve-disorders-stenosis---primary.py
+inputModule4:
+  class: File
+  path: python/nonrheumatic-aortic-valve-disorders-incompetence---primary.py
+inputModule5:
+  class: File
+  path: python/nonrheumatic-aortic-valve-disorders---primary.py
+inputModule6:
+  class: File
+  path: python/nonrheumatic-aortic-valve-disorders-insufficiency---primary.py
+inputModule7:
+  class: File
+  path: python/valve---primary.py
+inputModule8:
+  class: File
+  path: python/other-nonrheumatic-aortic-valve-disorders---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
